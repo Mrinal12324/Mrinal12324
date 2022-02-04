@@ -8,5 +8,5 @@
 - 📫 How to reach me: ... 
 - ⚡ Fun fact: ... Nothing
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrinal12324&show_icons=true&theme=Gradient)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrinal12324&show_icons=true&theme=jolly)
 
