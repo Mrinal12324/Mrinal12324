@@ -1,3 +1,4 @@
+<a href="https://github.com/">
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...  Model Creation
@@ -7,7 +8,4 @@
 - 💬 Ask me about ... Any advices :) 
 - 📫 How to reach me: ... 
 - ⚡ Fun fact: ... Nothing
-
-### Check out the link for an intractive GitHub profile
-(https://www.behance.net/gallery/129311161/GitHub-Portfolio)
 
