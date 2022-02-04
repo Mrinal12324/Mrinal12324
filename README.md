@@ -1,5 +1,4 @@
-<a href="https://github.com/">
-### Hi there 👋
+## Hi there 👋
 
 - 🔭 I’m currently working on ...  Model Creation
 - 🌱 I’m currently learning ... Machine learning
