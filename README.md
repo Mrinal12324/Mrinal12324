@@ -8,5 +8,6 @@
 - 📫 How to reach me: ... 
 - ⚡ Fun fact: ... Nothing
 
-### Check out the link for an intractive GitHub profile: https://www.behance.net/gallery/129311161/GitHub-Portfolio
+### Check out the link for an intractive GitHub profile
+(https://www.behance.net/gallery/129311161/GitHub-Portfolio)
 
