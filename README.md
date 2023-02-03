@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...  Model Creation
-- 🌱 I’m currently learning ... Machine learning
-- 👯 I’m looking to collaborate on ... A.I.
-- 🤔 I’m looking for help with ... Professional Guidence 
-- 💬 Ask me about ... Any advices :) 
-- 📫 How to reach me: ... 
-- ⚡ Fun fact: ... Nothing
+- 🔭 I’m currently working on ...  Impro==ving Skills and Knowledge
+- 🌱 I’m currently a Developer 
+- 👯 I’m looking to collaborate on Open AI and much more :)
+- 🤔 I’m looking for help with people whom I can gain some kind of Knowledge and team building.
+- 💬 Ask me about ... advices on 🧑‍💻
+- 📫 How to reach me:
+- ⚡ Fun fact: Blockchain is Booming !!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrinal12324&show_icons=true&theme=jolly)
 
