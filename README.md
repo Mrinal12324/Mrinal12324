@@ -7,6 +7,7 @@
 - 💬 Ask me about ... advices on 🧑‍💻
 - 📫 How to reach me: https://www.linkedin.com/in/l-mrinal-raj
 - ⚡ Fun fact: Blockchain is Booming !!
+[Mrinal](https://github.com/Mrinal12324/Mrinal12324/edit/main/README.md)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrinal12324&show_icons=true&theme=jolly)
 
