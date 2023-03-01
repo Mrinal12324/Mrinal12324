@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Open AI and much more :)
 - 🤔 I’m looking for help with people whom I can gain some kind of Knowledge and team building.
 - 💬 Ask me about ... advices on 🧑‍💻
-- 📫 How to reach me: https://www.linkedin.com/in/l-mrinal-raj
+- 📫 How to reach me: 'Mrinal Raj'Naidu(https://www.linkedin.com/in/l-mrinal-raj)
 - ⚡ Fun fact: Blockchain is Booming !!
 [Mrinal](https://github.com/Mrinal12324/Mrinal12324/edit/main/README.md)
 
