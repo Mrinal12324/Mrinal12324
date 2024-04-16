@@ -1,4 +1,4 @@
-## `Hi there 👋`
+< ## `Hi there 👋`>
 
 - 🔭 I’m currently working on ...  Impro==ving Skills and Knowledge
  - 🌱 I’m currently a Developer 
@@ -8,5 +8,5 @@
 - 📫 How to reach me: [Mrinal RajNaidu](https://www.linkedin.com/in/l-mrinal-raj)
 - ⚡ Fun fact: Blockchain is Booming !!
 
-  *![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrinal12324&show_icons=true&theme=jolly)*
+  <!---*![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrinal12324&show_icons=true&theme=jolly)*>
 
